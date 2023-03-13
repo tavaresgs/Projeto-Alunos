@@ -41,3 +41,4 @@ O projeto foi desenvolvido com o intuito de oferecer uma ferramenta prática e e
     - Programação envolve muitas vezes o trabalho em equipe, isso envolve colaboração e comunicação eficazes, que são 
     fundamentais para o sucesso da equipe;
     - Ser capaz de trabalhar bem e equipe é uma habilidade essencial para se desenvolver na programação.
+<br>
