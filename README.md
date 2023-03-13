@@ -1,4 +1,4 @@
-# Projeto: cadastramento de alunos
+# Projeto: cadastramento de alunos<br>
 ## Objetivo
 O projeto é um site de cadastro de alunos de uma escola, desenvolvido utilizando as linguagens HTML, CSS, JavaScript e MariaDB. O objetivo do site é facilitar o cadastro e a gestão de alunos por parte da escola.
 
@@ -41,4 +41,3 @@ O projeto foi desenvolvido com o intuito de oferecer uma ferramenta prática e e
     - Programação envolve muitas vezes o trabalho em equipe, isso envolve colaboração e comunicação eficazes, que são 
     fundamentais para o sucesso da equipe;
     - Ser capaz de trabalhar bem e equipe é uma habilidade essencial para se desenvolver na programação.
-<br>
